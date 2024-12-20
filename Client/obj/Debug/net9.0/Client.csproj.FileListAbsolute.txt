@@ -39,7 +39,6 @@ D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\Microsoft.IdentityMode
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\Mono.TextTemplating.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.ClientModel.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.CodeDom.dll
@@ -49,13 +48,10 @@ D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Composition.Hos
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Composition.Runtime.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Composition.TypedParts.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Drawing.Common.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Memory.Data.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Runtime.Caching.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Security.Permissions.dll
-D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Windows.Extensions.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -127,12 +123,7 @@ D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win-arm\nativ
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Projects\Client-Server Project\Client\obj\Debug\net9.0\Client.csproj.AssemblyReference.cache
 D:\Projects\Client-Server Project\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\Client-Server Project\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
@@ -147,3 +138,8 @@ D:\Projects\Client-Server Project\Client\obj\Debug\net9.0\ref\Client.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Management.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Management.dll
 D:\Projects\Client-Server Project\Client\obj\Debug\net9.0\Client.sourcelink.json
+D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.PerformanceCounter.dll
