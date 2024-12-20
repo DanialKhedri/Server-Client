@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "D:\\Projects\\Client-Server Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94DCE4C2-D6FC-4540-9850-57BA7D4C2FB7}|Client\\Client.csproj|d:\\projects\\client-server project\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94DCE4C2-D6FC-4540-9850-57BA7D4C2FB7}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ServerDataBase/True/SqlTable/dbo.DataModels.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BFF3E8-EDF7-4F56-A25C-21F7B78DB142}|Server\\Server.csproj|d:\\projects\\client-server project\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BFF3E8-EDF7-4F56-A25C-21F7B78DB142}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,23 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.DataModels [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ServerDataBase/True/SqlTable/dbo.DataModels.sql",
+              "ToolTip": "dbo.DataModels [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-20T23:05:50.576Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -46,15 +64,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\Client-Server Project\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "D:\\Projects\\Client-Server Project\\Client\\Program.cs",
-              "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwDkAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Projects\\Client-Server Project\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\Projects\\Client-Server Project\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwA0AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T21:26:43.996Z",
+              "WhenOpened": "2024-12-20T23:07:50.223Z",
               "EditorCaption": ""
             }
           ]
