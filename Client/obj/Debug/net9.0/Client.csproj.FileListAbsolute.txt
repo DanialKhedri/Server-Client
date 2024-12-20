@@ -146,3 +146,4 @@ D:\Projects\Client-Server Project\Client\obj\Debug\net9.0\Client.genruntimeconfi
 D:\Projects\Client-Server Project\Client\obj\Debug\net9.0\ref\Client.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\System.Management.dll
 D:\Projects\Client-Server Project\Client\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Management.dll
+D:\Projects\Client-Server Project\Client\obj\Debug\net9.0\Client.sourcelink.json

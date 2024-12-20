@@ -45,26 +45,30 @@ class Program
 
     public static async Task SendData(int count)
     {
+        string serverIp = "127.0.0.1";
+        int port = 5000;
+        Random rand = new Random();
+
+
+        // دریافت مصرف CPU و RAM از سیستم
+        var cpuUsage = await GetCpuUsage();
+        var ramUsage = await GetRamUsage();
+
+
         // تولید و ارسال داده‌ها
         for (int i = 0; i < count; i++)
         {
             Console.WriteLine(new string('=', 30));
 
-            // اتصال به سرور
-            string serverIp = "127.0.0.1";
-            int port = 5000;
             TcpClient client = new TcpClient(serverIp, port);
             Console.WriteLine("Connected to server.");
-
+            // اتصال به سرور
             NetworkStream stream = client.GetStream();
 
-            // دریافت مصرف CPU و RAM از سیستم
-            var cpuUsage = await GetCpuUsage();
-            var ramUsage = await GetRamUsage();
 
             // تولید اعداد تصادفی
             int[] numbersList = new int[5];
-            Random rand = new Random();
+         
             for (int y = 0; y < 5; y++)
             {
                 numbersList[y] = rand.Next(1, 2000); // اعداد تصادفی بین 1 تا 2000
@@ -108,6 +112,7 @@ class Program
             client.Close();
             Console.WriteLine(new string('=', 30));
         }
+
     }
 
     static async Task<float> GetCpuUsage()

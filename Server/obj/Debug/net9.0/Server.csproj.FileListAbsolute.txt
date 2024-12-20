@@ -144,3 +144,4 @@ D:\Projects\Client-Server Project\Server\obj\Debug\net9.0\refint\Server.dll
 D:\Projects\Client-Server Project\Server\obj\Debug\net9.0\Server.pdb
 D:\Projects\Client-Server Project\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
 D:\Projects\Client-Server Project\Server\obj\Debug\net9.0\ref\Server.dll
+D:\Projects\Client-Server Project\Server\obj\Debug\net9.0\Server.sourcelink.json
