@@ -54,19 +54,12 @@ class Program
         var cpuUsage = await GetCpuUsage();
         var ramUsage = await GetRamUsage();
 
-
         // تولید و ارسال داده‌ها
         for (int i = 0; i < count; i++)
         {
             Console.WriteLine(new string('=', 30));
 
-            TcpClient client = new TcpClient(serverIp, port);
-            Console.WriteLine("Connected to server.");
-            // اتصال به سرور
-            NetworkStream stream = client.GetStream();
 
-
-            // تولید اعداد تصادفی
             int[] numbersList = new int[5];
          
             for (int y = 0; y < 5; y++)
@@ -82,6 +75,11 @@ class Program
                 RamUsage = ramUsage,
                 NumbersList = numbersList
             };
+
+            // اتصال به سرور
+            TcpClient client = new TcpClient(serverIp, port);
+            Console.WriteLine("Connected to server."); 
+            NetworkStream stream = client.GetStream();
 
             // تبدیل داده‌ها به JSON
             string json = JsonSerializer.Serialize(myData);
@@ -111,8 +109,10 @@ class Program
             // بستن اتصال
             client.Close();
             Console.WriteLine(new string('=', 30));
+
         }
 
+   
     }
 
     static async Task<float> GetCpuUsage()

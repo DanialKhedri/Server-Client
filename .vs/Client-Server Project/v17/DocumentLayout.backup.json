@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Projects\\Client-Server Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94DCE4C2-D6FC-4540-9850-57BA7D4C2FB7}|Client\\Client.csproj|d:\\projects\\client-server project\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94DCE4C2-D6FC-4540-9850-57BA7D4C2FB7}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07BFF3E8-EDF7-4F56-A25C-21F7B78DB142}|Server\\Server.csproj|d:\\projects\\client-server project\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BFF3E8-EDF7-4F56-A25C-21F7B78DB142}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,13 +52,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\Client-Server Project\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "D:\\Projects\\Client-Server Project\\Client\\Program.cs",
-              "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Projects\\Client-Server Project\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\Projects\\Client-Server Project\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T16:38:49.418Z",
+              "WhenOpened": "2024-12-20T21:05:00.609Z",
               "EditorCaption": ""
             }
           ]
